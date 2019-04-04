@@ -1,0 +1,48 @@
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Form1.resources
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csproj.GenerateResource.cache
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Form1.en.resources
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.QES_Frame.resources
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Error_Window.resources
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\bin\Debug\Pocket Math.exe.config
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\bin\Debug\Pocket Math.exe
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\bin\Debug\Pocket Math.pdb
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\bin\Debug\en\Pocket Math.resources.dll
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Properties.Resources.resources
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\en\Pocket Math.resources.dll
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.exe
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.pdb
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.SUM_frame.resources
+C:\Users\Casper\Documents\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csprojAssemblyReference.cache
+D:\C#\Pocket Math\Pocket Math\bin\Debug\Pocket Math.exe.config
+D:\C#\Pocket Math\Pocket Math\bin\Debug\Pocket Math.exe
+D:\C#\Pocket Math\Pocket Math\bin\Debug\Pocket Math.pdb
+D:\C#\Pocket Math\Pocket Math\bin\Debug\en\Pocket Math.resources.dll
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csprojAssemblyReference.cache
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Error_Window.resources
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Form1.resources
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Properties.Resources.resources
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.QES_Frame.resources
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.SUM_frame.resources
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Form1.en.resources
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csproj.GenerateResource.cache
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csproj.CoreCompileInputs.cache
+D:\C#\Pocket Math\Pocket Math\obj\Debug\en\Pocket Math.resources.dll
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.exe
+D:\C#\Pocket Math\Pocket Math\obj\Debug\Pocket Math.pdb
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\bin\Debug\Pocket Math.exe.config
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\bin\Debug\Pocket Math.exe
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\bin\Debug\Pocket Math.pdb
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\bin\Debug\en\Pocket Math.resources.dll
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csprojAssemblyReference.cache
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Error_Window.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Form1.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Properties.Resources.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.QES_Frame.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.SUM_frame.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket_Math.Form1.en.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csproj.GenerateResource.cache
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket Math.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\en\Pocket Math.resources.dll
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket Math.exe
+C:\Users\Casper\Documents\C# Programmering\Pocket Math\Pocket Math\Pocket Math\obj\Debug\Pocket Math.pdb
