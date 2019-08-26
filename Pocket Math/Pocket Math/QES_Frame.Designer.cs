@@ -75,6 +75,7 @@
             this.ySubscript = new System.Windows.Forms.Label();
             this.TyLabel = new System.Windows.Forms.Label();
             this.timer6 = new System.Windows.Forms.Timer(this.components);
+            this.ClearButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Back_arrow_Button
@@ -117,7 +118,7 @@
             this.a_input.Font = new System.Drawing.Font("TYPOGRAPH PRO", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.a_input.ForeColor = System.Drawing.Color.DodgerBlue;
             this.a_input.Location = new System.Drawing.Point(123, 62);
-            this.a_input.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.a_input.Margin = new System.Windows.Forms.Padding(4);
             this.a_input.Name = "a_input";
             this.a_input.Size = new System.Drawing.Size(431, 58);
             this.a_input.TabIndex = 7;
@@ -170,7 +171,7 @@
             this.b_input.Font = new System.Drawing.Font("TYPOGRAPH PRO", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.b_input.ForeColor = System.Drawing.Color.DodgerBlue;
             this.b_input.Location = new System.Drawing.Point(123, 149);
-            this.b_input.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.b_input.Margin = new System.Windows.Forms.Padding(4);
             this.b_input.Name = "b_input";
             this.b_input.Size = new System.Drawing.Size(431, 58);
             this.b_input.TabIndex = 12;
@@ -187,7 +188,7 @@
             this.c_input.Font = new System.Drawing.Font("TYPOGRAPH PRO", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.c_input.ForeColor = System.Drawing.Color.DodgerBlue;
             this.c_input.Location = new System.Drawing.Point(123, 239);
-            this.c_input.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.c_input.Margin = new System.Windows.Forms.Padding(4);
             this.c_input.Name = "c_input";
             this.c_input.Size = new System.Drawing.Size(431, 58);
             this.c_input.TabIndex = 15;
@@ -230,7 +231,7 @@
             this.SolveButton.Font = new System.Drawing.Font("TYPOGRAPH PRO", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SolveButton.ForeColor = System.Drawing.Color.White;
             this.SolveButton.Location = new System.Drawing.Point(629, 148);
-            this.SolveButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.SolveButton.Margin = new System.Windows.Forms.Padding(4);
             this.SolveButton.Name = "SolveButton";
             this.SolveButton.Size = new System.Drawing.Size(239, 70);
             this.SolveButton.TabIndex = 16;
@@ -620,11 +621,29 @@
             this.TyLabel.Text = "T";
             this.TyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // ClearButton
+            // 
+            this.ClearButton.FlatAppearance.BorderColor = System.Drawing.Color.Blue;
+            this.ClearButton.FlatAppearance.BorderSize = 3;
+            this.ClearButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.ClearButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ClearButton.Font = new System.Drawing.Font("TYPOGRAPH PRO", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ClearButton.ForeColor = System.Drawing.Color.White;
+            this.ClearButton.Location = new System.Drawing.Point(629, 57);
+            this.ClearButton.Margin = new System.Windows.Forms.Padding(4);
+            this.ClearButton.Name = "ClearButton";
+            this.ClearButton.Size = new System.Drawing.Size(239, 70);
+            this.ClearButton.TabIndex = 49;
+            this.ClearButton.Text = "CLEAR";
+            this.ClearButton.UseVisualStyleBackColor = false;
+            this.ClearButton.Click += new System.EventHandler(this.ClearButton_Click);
+            // 
             // QES_Frame
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
+            this.Controls.Add(this.ClearButton);
             this.Controls.Add(this.CopyTy);
             this.Controls.Add(this.TyResult);
             this.Controls.Add(this.label6);
@@ -665,7 +684,7 @@
             this.Controls.Add(this.QESLabel);
             this.Controls.Add(this.TyLabel);
             this.ForeColor = System.Drawing.Color.White;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "QES_Frame";
             this.Size = new System.Drawing.Size(949, 826);
             this.Load += new System.EventHandler(this.QES_Frame_Load);
@@ -721,5 +740,6 @@
         private System.Windows.Forms.Label ySubscript;
         private System.Windows.Forms.Label TyLabel;
         private System.Windows.Forms.Timer timer6;
+        private System.Windows.Forms.Button ClearButton;
     }
 }

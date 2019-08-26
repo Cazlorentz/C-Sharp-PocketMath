@@ -47,5 +47,7 @@ namespace Pocket_Math
             button1.ForeColor = Color.White;
             button1.BackColor = Color.FromArgb(15, 15, 15);
         }
+
+
     }
 }

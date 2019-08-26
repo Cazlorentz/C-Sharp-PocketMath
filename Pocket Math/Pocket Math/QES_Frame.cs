@@ -489,5 +489,21 @@ namespace Pocket_Math
             CopyTy.Visible = false;
             timer5.Stop();
         }
+
+        private void ClearButton_Click(object sender, EventArgs e)
+        {
+            if (!Error_Window.errorKey)
+            {
+                a_input.Text = "..."; a_input.ForeColor = Color.DodgerBlue;
+                b_input.Text = "..."; b_input.ForeColor = Color.DodgerBlue;
+                c_input.Text = "..."; c_input.ForeColor = Color.DodgerBlue;
+                x1Result.Text = null;
+                x2Result.Text = null;
+                DResult.Text = null;
+                TxResult.Text = null;
+                TyResult.Text = null;
+            }
+            this.ActiveControl = QESLabel;
+        }
     }
 }
