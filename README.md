@@ -3,8 +3,8 @@
 =========================
 
 This program was made for the purpose
-of optimizing shool time spent of 
-mathematical assignemnts in high school
+of optimizing school time spent of 
+mathematical assignments in high school
 and, to a certain extend, college.
 
 All icons are copyrighted and are not
