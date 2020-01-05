@@ -1,6 +1,6 @@
 <h1>
 ========================= <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Casper Juul Lorentzen <br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Casper Juul Lorentzen <br/>
 ========================= <br/>
 </h1>
 This program was made for the purpose
