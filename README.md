@@ -1,5 +1,5 @@
 =========================
-¸ Casper Juul Lorentzen
+Casper Juul Lorentzen
 =========================
 
 This program was made for the purpose
