@@ -1,7 +1,8 @@
+<h1>
 ========================= <br/>
-Casper Juul Lorentzen <br/>
+ Casper Juul Lorentzen <br/>
 ========================= <br/>
-
+<h1/>
 This program was made for the purpose
 of optimizing school time spent of 
 mathematical assignments in high school
